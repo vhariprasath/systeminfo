@@ -84,7 +84,7 @@ do
             ;;
 
         "Generate file")
-            bash systeminfo.sh > systeminfo.txt
+            bash https://github.com/vhariprasath/systeminfo/blob/master/sysinfo.sh > systeminfo.txt
             echo "file saved as systeminfo.txt"
             echo ""
             ;;
